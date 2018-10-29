@@ -1,0 +1,4 @@
+#Mon Oct 29 13:48:06 EAT 2018
+base.0=/home/lemonlabs/shazalia/Commute/app/build/intermediates/transforms/dexMerger/debug/6
+path.0=classes.dex
+renamed.0=classes.dex

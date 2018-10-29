@@ -1,0 +1,201 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/lemonlabs/shazalia/Commute/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/lemonlabs/shazalia/Commute/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/lemonlabs/shazalia/Commute/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/lemonlabs/shazalia/Commute/app/src/main/AndroidManifest.xml:2:1-28:12
+MERGED from [com.github.joielechong:countrycodepicker:2.1.5] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/countrycodepicker-2.1.5.aar/095b6f61cbf22b2f7c10c2cff5a2995d/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:design:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/2ab0a3b9fc3cbf366c08cb4e36694029/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.GoodieBag:Pinview:v1.3] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/Pinview-v1.3.aar/149227431f612d57c38447b2b93316cb/AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/25c66b0423ed82db7849ada3e338eb06/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/54c06f145e48d23308e0dd1b1b6a8284/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/eecd65b8585d4c1012ecb3eceff47a7e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/dd489e49103d4d3325590603c05d0a53/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/821977225cd1adc6bfaa9fdeaea15de0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/7f32dbc7931af82899a744285993c887/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/3b63bb27cc9cd9d6fc84a0f58297e2a5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/8354688d205953c2deb51ac06a8455b1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/83ad03adf51ab9d4a39c1e66b5661e68/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/53627b782f3e9f11f3d0d0efa50bf844/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/657f1d01dac0ee4067022e6847060d6e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/5d836be5bc8c5eaa45750e228c4e3ecb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/d5e709b40b304d63eaa05255b607195b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/8e08042732b7ee199c310ad53b86d2c1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/0f78b53cadb0dbf7003471cf82ec8233/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/0810e0f8226938f18ecaf89de728ffbd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/04e2cc9e55544567f21c8415dd574732/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/daa3901b653db0d4182c40d96f50a23d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/dfc2429adc40a30c335706614647167b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/632e7261ef6730200237cbef2df3523b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/57096eb6d8da33d27f992635e1e9ac68/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/7e8b1bbcc7f6d6a6220b96a3968e1159/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/02d60c942824e2dc42170df72ecceccf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/c349781a6f41979039253b6011978b57/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/3ada05774deca8f64ad620d11ca7d458/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/09fd13123b8660f870e705203889be32/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/4153a877f97cbc5d76e92260e77e3dde/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/6b9a238e280067bbf895ddb101a95431/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/120f0ddd922bc378f9d8fe7b65abf5bf/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/8045a23fe67cf782f0037e34142385f6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/b53061c3c9470801cac39897d7a13407/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/64543714e326c9957121539d5a904a40/AndroidManifest.xml:17:1-22:12
+MERGED from [io.michaelrocks:libphonenumber-android:8.4.1] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/libphonenumber-android-8.4.1.aar/3251ebf5a60705bf6cd47091fed4d644/AndroidManifest.xml:2:1-12:12
+INJECTED from /home/lemonlabs/shazalia/Commute/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/lemonlabs/shazalia/Commute/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/lemonlabs/shazalia/Commute/app/src/main/AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from /home/lemonlabs/shazalia/Commute/app/src/main/AndroidManifest.xml:4:5-45
+		INJECTED from /home/lemonlabs/shazalia/Commute/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lemonlabs/shazalia/Commute/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/lemonlabs/shazalia/Commute/app/src/main/AndroidManifest.xml
+		ADDED from /home/lemonlabs/shazalia/Commute/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /home/lemonlabs/shazalia/Commute/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/lemonlabs/shazalia/Commute/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/lemonlabs/shazalia/Commute/app/src/main/AndroidManifest.xml
+		ADDED from /home/lemonlabs/shazalia/Commute/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /home/lemonlabs/shazalia/Commute/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/lemonlabs/shazalia/Commute/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/lemonlabs/shazalia/Commute/app/src/main/AndroidManifest.xml:6:5-26:19
+MERGED from [com.android.support:design:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/2ab0a3b9fc3cbf366c08cb4e36694029/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/2ab0a3b9fc3cbf366c08cb4e36694029/AndroidManifest.xml:22:5-20
+MERGED from [com.github.GoodieBag:Pinview:v1.3] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/Pinview-v1.3.aar/149227431f612d57c38447b2b93316cb/AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.GoodieBag:Pinview:v1.3] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/Pinview-v1.3.aar/149227431f612d57c38447b2b93316cb/AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/54c06f145e48d23308e0dd1b1b6a8284/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/54c06f145e48d23308e0dd1b1b6a8284/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/632e7261ef6730200237cbef2df3523b/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/632e7261ef6730200237cbef2df3523b/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/57096eb6d8da33d27f992635e1e9ac68/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/57096eb6d8da33d27f992635e1e9ac68/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/632e7261ef6730200237cbef2df3523b/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/lemonlabs/shazalia/Commute/app/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /home/lemonlabs/shazalia/Commute/app/src/main/AndroidManifest.xml:9:9-41
+	tools:ignore
+		ADDED from /home/lemonlabs/shazalia/Commute/app/src/main/AndroidManifest.xml:13:9-48
+	android:roundIcon
+		ADDED from /home/lemonlabs/shazalia/Commute/app/src/main/AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from /home/lemonlabs/shazalia/Commute/app/src/main/AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from /home/lemonlabs/shazalia/Commute/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /home/lemonlabs/shazalia/Commute/app/src/main/AndroidManifest.xml:12:9-40
+activity#commute.com.shazawdidi.commute.SplashScreen
+ADDED from /home/lemonlabs/shazalia/Commute/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /home/lemonlabs/shazalia/Commute/app/src/main/AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/lemonlabs/shazalia/Commute/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /home/lemonlabs/shazalia/Commute/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /home/lemonlabs/shazalia/Commute/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/lemonlabs/shazalia/Commute/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /home/lemonlabs/shazalia/Commute/app/src/main/AndroidManifest.xml:18:27-74
+activity#commute.com.shazawdidi.commute.LoginActivity
+ADDED from /home/lemonlabs/shazalia/Commute/app/src/main/AndroidManifest.xml:21:9-51
+	android:name
+		ADDED from /home/lemonlabs/shazalia/Commute/app/src/main/AndroidManifest.xml:21:19-48
+activity#commute.com.shazawdidi.commute.CommuteActivity
+ADDED from /home/lemonlabs/shazalia/Commute/app/src/main/AndroidManifest.xml:22:9-25:47
+	android:label
+		ADDED from /home/lemonlabs/shazalia/Commute/app/src/main/AndroidManifest.xml:24:13-59
+	android:theme
+		ADDED from /home/lemonlabs/shazalia/Commute/app/src/main/AndroidManifest.xml:25:13-44
+	android:name
+		ADDED from /home/lemonlabs/shazalia/Commute/app/src/main/AndroidManifest.xml:23:13-44
+uses-sdk
+INJECTED from /home/lemonlabs/shazalia/Commute/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/lemonlabs/shazalia/Commute/app/src/main/AndroidManifest.xml
+INJECTED from /home/lemonlabs/shazalia/Commute/app/src/main/AndroidManifest.xml
+MERGED from [com.github.joielechong:countrycodepicker:2.1.5] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/countrycodepicker-2.1.5.aar/095b6f61cbf22b2f7c10c2cff5a2995d/AndroidManifest.xml:10:5-12:41
+MERGED from [com.github.joielechong:countrycodepicker:2.1.5] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/countrycodepicker-2.1.5.aar/095b6f61cbf22b2f7c10c2cff5a2995d/AndroidManifest.xml:10:5-12:41
+MERGED from [com.android.support:design:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/2ab0a3b9fc3cbf366c08cb4e36694029/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/2ab0a3b9fc3cbf366c08cb4e36694029/AndroidManifest.xml:20:5-44
+MERGED from [com.github.GoodieBag:Pinview:v1.3] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/Pinview-v1.3.aar/149227431f612d57c38447b2b93316cb/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.GoodieBag:Pinview:v1.3] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/Pinview-v1.3.aar/149227431f612d57c38447b2b93316cb/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/25c66b0423ed82db7849ada3e338eb06/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/25c66b0423ed82db7849ada3e338eb06/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/54c06f145e48d23308e0dd1b1b6a8284/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/54c06f145e48d23308e0dd1b1b6a8284/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/eecd65b8585d4c1012ecb3eceff47a7e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/eecd65b8585d4c1012ecb3eceff47a7e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/dd489e49103d4d3325590603c05d0a53/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/dd489e49103d4d3325590603c05d0a53/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/821977225cd1adc6bfaa9fdeaea15de0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/821977225cd1adc6bfaa9fdeaea15de0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/7f32dbc7931af82899a744285993c887/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/7f32dbc7931af82899a744285993c887/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/3b63bb27cc9cd9d6fc84a0f58297e2a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/3b63bb27cc9cd9d6fc84a0f58297e2a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/8354688d205953c2deb51ac06a8455b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/8354688d205953c2deb51ac06a8455b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/83ad03adf51ab9d4a39c1e66b5661e68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/83ad03adf51ab9d4a39c1e66b5661e68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/53627b782f3e9f11f3d0d0efa50bf844/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/53627b782f3e9f11f3d0d0efa50bf844/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/657f1d01dac0ee4067022e6847060d6e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/657f1d01dac0ee4067022e6847060d6e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/5d836be5bc8c5eaa45750e228c4e3ecb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/5d836be5bc8c5eaa45750e228c4e3ecb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/d5e709b40b304d63eaa05255b607195b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/d5e709b40b304d63eaa05255b607195b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/8e08042732b7ee199c310ad53b86d2c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/8e08042732b7ee199c310ad53b86d2c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/0f78b53cadb0dbf7003471cf82ec8233/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/0f78b53cadb0dbf7003471cf82ec8233/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/0810e0f8226938f18ecaf89de728ffbd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/0810e0f8226938f18ecaf89de728ffbd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/04e2cc9e55544567f21c8415dd574732/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/04e2cc9e55544567f21c8415dd574732/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/daa3901b653db0d4182c40d96f50a23d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/daa3901b653db0d4182c40d96f50a23d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/dfc2429adc40a30c335706614647167b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/dfc2429adc40a30c335706614647167b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/632e7261ef6730200237cbef2df3523b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/632e7261ef6730200237cbef2df3523b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/57096eb6d8da33d27f992635e1e9ac68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/57096eb6d8da33d27f992635e1e9ac68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/7e8b1bbcc7f6d6a6220b96a3968e1159/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/7e8b1bbcc7f6d6a6220b96a3968e1159/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/02d60c942824e2dc42170df72ecceccf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/02d60c942824e2dc42170df72ecceccf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/c349781a6f41979039253b6011978b57/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/c349781a6f41979039253b6011978b57/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/3ada05774deca8f64ad620d11ca7d458/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/3ada05774deca8f64ad620d11ca7d458/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/09fd13123b8660f870e705203889be32/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/09fd13123b8660f870e705203889be32/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/4153a877f97cbc5d76e92260e77e3dde/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/4153a877f97cbc5d76e92260e77e3dde/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/6b9a238e280067bbf895ddb101a95431/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/6b9a238e280067bbf895ddb101a95431/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/120f0ddd922bc378f9d8fe7b65abf5bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/120f0ddd922bc378f9d8fe7b65abf5bf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/8045a23fe67cf782f0037e34142385f6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/8045a23fe67cf782f0037e34142385f6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/b53061c3c9470801cac39897d7a13407/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/b53061c3c9470801cac39897d7a13407/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/64543714e326c9957121539d5a904a40/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/64543714e326c9957121539d5a904a40/AndroidManifest.xml:20:5-44
+MERGED from [io.michaelrocks:libphonenumber-android:8.4.1] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/libphonenumber-android-8.4.1.aar/3251ebf5a60705bf6cd47091fed4d644/AndroidManifest.xml:8:5-10:41
+MERGED from [io.michaelrocks:libphonenumber-android:8.4.1] /home/lemonlabs/.gradle/caches/transforms-1/files-1.1/libphonenumber-android-8.4.1.aar/3251ebf5a60705bf6cd47091fed4d644/AndroidManifest.xml:8:5-10:41
+INJECTED from /home/lemonlabs/shazalia/Commute/app/src/main/AndroidManifest.xml
+INJECTED from /home/lemonlabs/shazalia/Commute/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/lemonlabs/shazalia/Commute/app/src/main/AndroidManifest.xml
+		ADDED from /home/lemonlabs/shazalia/Commute/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lemonlabs/shazalia/Commute/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/lemonlabs/shazalia/Commute/app/src/main/AndroidManifest.xml
+		ADDED from /home/lemonlabs/shazalia/Commute/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lemonlabs/shazalia/Commute/app/src/main/AndroidManifest.xml
