@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="tracker_point">
+        <item>الأزهري</item>
+        <item>المعمورة</item>
+        <item>أركويت</item>
+        <item>العمارات</item>
+        <item>عفراء</item>
+        <item>الصحافة</item>
+    </string-array>
+
+</resources>

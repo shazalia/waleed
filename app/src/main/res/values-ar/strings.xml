@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">رفقة</string>
+    <string name="hi">hi</string>
+    <string name="lets_get_started">هيا بنا نبدأ</string>
+    <string name="wait_for_auto_verify">الرجاء الانتظار ليتم التحقق من الرقم</string>
+    <string name="enter_6_digit_code">أدخل الرمز المكون من 6 أرقام</string>
+    <string name="didn_t_receive_the_code">لم يتم استلام رسالة!</string>
+    <string name="resend_code">ارسل الكود مرة أخرى</string>
+    <string name="title_activity_commute">تفاصيل الترحيل</string>
+    <string name="nav_header_title">رفقة</string>
+    <string name="nav_header_subtitle">www.commuteme.com</string>
+    <string name="nav_header_desc">تطبيق رفقة</string>
+    <string name="action_settings">الضبط</string>
+    <string name="fill">fill</string>
+    <string name="from">من الساعة</string>
+    <string name="to">وحتى الساعة</string>
+    <string name="seets_number">عدد المقاعد</string>
+    <string name="what_place_from">ما هي الوجهة التي تريد الذهاب اليها خلال</string>
+    <string name="what_place_to">ما وجهة رجوعك اليومية</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_font">fonts/hlight.ttf</string>
+    <string name="app_font_bold">fonts/hbold.ttf</string>
+    <string name="app_number_font">fonts/DINPro-Medium.ttf</string>
+    <string name="currency_font">fonts/DINPro-Medium.ttf</string>
+    <string name="logo_font">fonts/logo_font.ttf</string>
+</resources>

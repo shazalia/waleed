@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_font">fonts/sky-Rg.ttf</string>
+    <string name="app_font_bold">fonts/sky-Bd.ttf</string>
+    <string name="app_number_font">fonts/DINPro-Medium.ttf</string>
+    <string name="currency_font">fonts/yassin.ttf</string>
+    <string name="logo_font">fonts/sky-Rg.ttf</string>
+
+</resources>
