@@ -17,7 +17,35 @@
     <string name="fill">fill</string>
     <string name="from">from</string>
     <string name="to">to</string>
+    <string name="order_commute">order commute</string>
     <string name="seets_number">seets number</string>
     <string name="what_place_from">What place that you want go on</string>
     <string name="what_place_to">What place that you want come from</string>
+    <string-array name="tracker_point">
+        <item>alazhry</item>
+        <item>almamora</item>
+        <item>arkaweet</item>
+        <item>alamarat</item>
+        <item>afraa</item>
+        <item>alsahafa</item>
+    </string-array>
+    <string-array name ="hour_from">
+        <item >7</item>
+        <item >7:30</item>
+        <item >8</item>
+        <item >8:30</item>
+    </string-array>
+    <string-array name ="hour_to">
+        <item >3</item>
+        <item >3:30</item>
+        <item >4</item>
+        <item >4:30</item>
+    </string-array>
+    <string-array name ="seet_number">
+        <item >1seet</item>
+        <item >2seets</item>
+        <item >3-5seets</item>
+        <item >5-7seets</item>
+        <item >7-10seets</item>
+    </string-array>
 </resources>

@@ -14,7 +14,35 @@
     <string name="fill">fill</string>
     <string name="from">من الساعة</string>
     <string name="to">وحتى الساعة</string>
+    <string name="order_commute">إطلب رفقة</string>
     <string name="seets_number">عدد المقاعد</string>
-    <string name="what_place_from">ما هي الوجهة التي تريد الذهاب اليها خلال</string>
+    <string name="what_place_from">ما الجهة التي تود الذهاب إليها</string>
     <string name="what_place_to">ما وجهة رجوعك اليومية</string>
+    <string-array name="tracker_point">
+        <item>الأزهري</item>
+        <item>المعمورة</item>
+        <item>أركويت</item>
+        <item>العمارات</item>
+        <item>عفراء</item>
+        <item>الصحافة</item>
+    </string-array>
+    <string-array name ="hour_from">
+        <item >7</item>
+        <item >7:30</item>
+        <item >8</item>
+        <item >8:30</item>
+    </string-array>
+    <string-array name ="hour_to">
+        <item >3</item>
+        <item >3:30</item>
+        <item >4</item>
+        <item >4:30</item>
+    </string-array>
+    <string-array name ="seet_number">
+        <item >مقعد واحد</item>
+        <item >مقغدين</item>
+        <item >3-5مقاعد</item>
+        <item >5-7مقاعد</item>
+        <item >7-10مقاعد</item>
+    </string-array>
 </resources>
